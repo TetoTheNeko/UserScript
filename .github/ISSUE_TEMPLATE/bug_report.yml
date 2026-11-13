@@ -1,0 +1,42 @@
+name: 问题反馈
+description: 报告脚本无法运行、功能异常或兼容性问题
+title: "[Bug] "
+body:
+  - type: input
+    id: script
+    attributes:
+      label: 脚本名称与版本
+      placeholder: 请填写脚本名称及当前版本号
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: 浏览器与脚本管理器
+      description: 请填写名称和版本。
+      placeholder: Chrome / Edge / Firefox + Tampermonkey，附版本号
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: 出现问题的页面链接
+      description: 请勿填写包含私人信息或令牌的链接。
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: 复现步骤
+      description: 请描述如何触发问题，以及是否同时启用了其他相关脚本或扩展。
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: 期望结果与实际结果
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: 截图或报错信息
+      description: 提交前请去除账号、Cookie、令牌等私人信息。

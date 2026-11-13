@@ -1,0 +1,23 @@
+name: 功能建议
+description: 提出功能改进或使用体验建议
+title: "[建议] "
+body:
+  - type: input
+    id: script
+    attributes:
+      label: 相关脚本
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: 使用场景
+      description: 你在什么情况下遇到了什么不便？
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: 希望的改进
+    validations:
+      required: true

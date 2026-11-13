@@ -1,0 +1,13 @@
+# 本地环境与私人配置
+.env
+.env.*
+!.env.example
+node_modules/
+__pycache__/
+.venv/
+.idea/
+.vscode/
+*.log
+*.tmp
+Thumbs.db
+.DS_Store
