@@ -2,5 +2,6 @@
 *.md text eol=lf
 *.yml text eol=lf
 LICENSE text eol=lf
+LICENSES/*.txt text eol=lf
 # 已发布的用户脚本按原始字节保存，便于核对发布版本。
 *.user.js -text

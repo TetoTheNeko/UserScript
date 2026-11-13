@@ -75,4 +75,4 @@
 
 ## 来源与许可
 
-原作：[TheBszk / BiliBili 高级倍速功能 1.9](https://greasyfork.org/zh-CN/scripts/479080)。本修改版由 IAmTeto 自 1.9.1 起维护，沿用原脚本的 `AGPL` 许可声明，许可全文见 [LICENSE](../LICENSE)。
+原作：[TheBszk / BiliBili 高级倍速功能 1.9](https://greasyfork.org/zh-CN/scripts/479080)。本修改版由 IAmTeto 自 1.9.1 起维护，沿用原脚本的 `AGPL` 许可声明，附 [AGPL v3 全文](../LICENSES/AGPL-3.0.txt)。

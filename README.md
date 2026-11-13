@@ -11,6 +11,7 @@
 | 脚本名称 | 脚本功能 | 安装 | 备用 |
 | --- | --- | --- | --- |
 | [BiliBili 高级倍速功能](./docs/bilibili-advanced-speed.md) | 自定义倍速、标签页独立记忆、快捷键调速、字幕复制等 | [安装](https://greasyfork.org/zh-CN/scripts/605307) | [备用](https://raw.githubusercontent.com/TetoTheNeko/UserScript/main/Bilibili-Advanced-Speed.user.js) |
+| [力扣提交结果音效（通过 / 未通过）](./docs/leetcode-verdict-sound.md) | 运行与提交结果音效、内置音色、自定义音频、独立开关 | [安装](https://greasyfork.org/zh-CN/scripts/605331) | [备用](https://raw.githubusercontent.com/TetoTheNeko/UserScript/main/LeetCode-Verdict-Sound.user.js) |
 
 ## 如何安装 / 使用？
 
@@ -20,4 +21,4 @@
 
 ## License
 
-各脚本的许可与来源见源码头部及对应说明，许可全文见 [LICENSE](./LICENSE)。
+各脚本独立授权，许可与来源见源码头部及对应说明，许可范围见 [LICENSE](./LICENSE)，全文见 [LICENSES](./LICENSES/)。
